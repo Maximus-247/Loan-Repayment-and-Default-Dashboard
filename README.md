@@ -25,13 +25,13 @@ Business Use loans have a notable default count (1.6K out of 4.5K), indicating m
 2. Default patterns reveal that loans for Business Use and Debt Consolidation carry relatively higher risks.
 3. Historical data shows a concentration of defaults in Grades C and D, suggesting these grades warrant closer scrutiny.
 ## Recommendations
-Strategic Lending:
+## Strategic Lending:
 Limit approvals for higher-risk grades (E, F, G) unless supported by strong applicant credentials.
-Enhanced Risk Assessment:
+## Enhanced Risk Assessment:
 Increase due diligence for Grades C and D, considering their significant default contributions.
-Purpose-Specific Strategies:
+## Purpose-Specific Strategies:
 Design targeted interventions for Business Use and Debt Consolidation loans, such as collateral requirements or stricter terms.
-Default Management:
+## Default Management:
 Monitor trends in default rates and implement predictive analytics to refine risk models.
-Promotion of Low-Risk Loans:
+## Promotion of Low-Risk Loans:
 Focus on Education loans due to their lower default likelihood.
