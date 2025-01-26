@@ -21,9 +21,9 @@ Loan purposes Business Use and Debt Consolidation show higher default counts com
 Education Loans have fewer defaults (1.1K out of 5K).
 Business Use loans have a notable default count (1.6K out of 4.5K), indicating moderate risk.
 ## Conclusion
-Approval rates tend to favor higher-risk grades (E, F, G) despite their smaller approval volumes.
-Default patterns reveal that loans for Business Use and Debt Consolidation carry relatively higher risks.
-Historical data shows a concentration of defaults in Grades C and D, suggesting these grades warrant closer scrutiny.
+1. Approval rates tend to favor higher-risk grades (E, F, G) despite their smaller approval volumes.
+2. Default patterns reveal that loans for Business Use and Debt Consolidation carry relatively higher risks.
+3. Historical data shows a concentration of defaults in Grades C and D, suggesting these grades warrant closer scrutiny.
 ## Recommendations
 Strategic Lending:
 Limit approvals for higher-risk grades (E, F, G) unless supported by strong applicant credentials.
