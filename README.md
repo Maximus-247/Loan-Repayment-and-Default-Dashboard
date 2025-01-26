@@ -12,11 +12,11 @@ This dashboard provides insights into loan approval trends and default analysis 
 
 Loan Grade D has the highest approved loans (2.1K), followed by B (1.7K) and C (1.3K).
 Approval rates increase significantly from Grade A (0.11) to Grade G (0.98).
-Default Patterns:
+## Default Patterns:
 
 Historical defaults are highest for Grade D loans (10.11K or 32.75%) and Grade C loans (9.87K or 31.98%).
 Loan purposes Business Use and Debt Consolidation show higher default counts compared to others.
-Purpose-Specific Observations:
+## Purpose-Specific Observations:
 
 Education Loans have fewer defaults (1.1K out of 5K).
 Business Use loans have a notable default count (1.6K out of 4.5K), indicating moderate risk.
