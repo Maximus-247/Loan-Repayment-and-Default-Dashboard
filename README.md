@@ -1,6 +1,7 @@
 # Loan Approval Trends and Default Analysis Dashboard
 ## Overview
 This dashboard presents insights derived from the loan data of the Commercial Bank of Zimbabwe (CBZ). It focuses on loan approval trends and default analysis across different loan grades and purposes. By leveraging this data, the analysis highlights key approval patterns and default behaviors, offering actionable insights to enhance the bank's risk management and lending strategies.
+![image alt](https://github.com/Maximus-247/Loan-Repayment-and-Default-Dashboard/blob/fa84a465d2e1aea77cc9971b60d2888d2cda863f/Screenshot%202025-01-26%20084654.png)
 
 ## Objectives
 1. Analyze loan approval distribution by grade.
